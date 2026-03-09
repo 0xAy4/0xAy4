@@ -41,8 +41,10 @@ Cybersecurity analyst with a software engineering background. I bring a develope
 
 <div align="center">
 
-![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xAy4&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAy4&layout=compact&theme=tokyonight&hide_border=true)
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xAy4&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![Aya's GitHub stats](https://nirzak-streak-stats.vercel.app/?user=0xAy4&theme=tokyonight&hide_border=true)<br/>
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAy4&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 </div>
 
