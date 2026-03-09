@@ -9,9 +9,7 @@
   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝        ╚═╝
 ```
 
-**`0xAy4`** — Cybersecurity | Self-Taught | Always Learning
-
-![Profile Views](https://komarev.com/ghpvc/?username=0xAy4&color=blueviolet&style=flat-square)
+**`0xAy4`** — Cybersecurity Analyst | CompTIA Security+ | Always Learning
 
 </div>
 
@@ -19,26 +17,26 @@
 
 ### $ whoami
 
-Self-taught developer transitioning into cybersecurity. I come from a coding background and I'm now channeling that foundation toward offensive security, ethical hacking, and CTF challenges. I build, I break, I learn — in that order.
+Cybersecurity analyst with a software engineering background. I bring a developer's mindset to security — understanding systems from the inside out. Currently focused on threat detection, SOC analysis, and building the skills that matter in the field.
 
-Currently focused on:
-- 🔐 Building a career in cybersecurity
-- 🧩 Sharpening skills through CTF competitions
-- 🛠️ Leveraging my coding background in security contexts
-- 📖 Studying for security certifications
+- 🔐 CompTIA Security+ certified
+- 🎓 Honors graduate — Cyber Advance for Women in MENA by Correlation One (99%)
+- 🛠️ Hands-on experience in threat analysis, incident response & vulnerability assessment
+- 📡 Working with Wireshark, Nmap, Splunk, OpenSSL & MITRE ATT&CK
+- 📖 Continuously expanding across the cybersecurity landscape
 
 ---
 
 ### 🛠️ Tools & Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E8291C?style=flat-square&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -56,7 +54,6 @@ Currently focused on:
 
 <div align="center">
 
-*The quieter you become, the more you are able to hear.* 
+*The quieter you become, the more you are able to hear.*
 
 </div>
-
