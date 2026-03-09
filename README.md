@@ -1,13 +1,10 @@
 <div align="center">
 
-```
-  ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗██╗  ██╗
- ██╔═████╗╚██╗██╔╝██╔══██╗╚██╗ ██╔╝██║  ██║
- ██║██╔██║ ╚███╔╝ ███████║ ╚████╔╝ ███████║
- ████╔╝██║ ██╔██╗ ██╔══██║  ╚██╔╝  ╚════██║
- ╚██████╔╝██╔╝ ██╗██║  ██║   ██║        ██║
-  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝        ╚═╝
-```
+<h1 align="center">🌒 Aya 🌘</h1>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AB0DDC&width=435&lines=Cybersecurity+Analyst;COMPTIA+security%2B+certified;Breaking+things+to+understand+them" alt="Typing SVG" /></a>
+</p>
 
 **`0xAy4`** — Cybersecurity Analyst | CompTIA Security+ | Always Learning
 
@@ -44,9 +41,8 @@ Cybersecurity analyst with a software engineering background. I bring a develope
 
 <div align="center">
 
-![0xAy4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xAy4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAy4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff)
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xAy4&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAy4&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -54,6 +50,6 @@ Cybersecurity analyst with a software engineering background. I bring a develope
 
 <div align="center">
 
-*The quieter you become, the more you are able to hear.*
+*Not all who wander are lost. Some are scanning*
 
 </div>
