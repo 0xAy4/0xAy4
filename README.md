@@ -1,8 +1,8 @@
-<div>
+<div align="center">
 
 <h1 align="center">🌒 Aya 🌘</h1>
 
-<p align="center">
+<p text-align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AB0DDC&width=435&lines=Cybersecurity+Analyst;COMPTIA+security%2B+certified;Breaking+things+to+understand+them" alt="Typing SVG" /></a>
 </p>
 
