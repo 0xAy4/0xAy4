@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <h1 align="center">🌒 Aya 🌘</h1>
 
