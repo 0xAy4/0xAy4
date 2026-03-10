@@ -28,8 +28,8 @@ Cybersecurity analyst with a software engineering background. I bring a develope
 
 <div align="center">
 
-[![CompTIA Security+](https://images.credly.com/size/150x150/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/3b84ed48-f5c2-4519-ad7a-57e6bd17f510)
-[![IBM Cybersecurity](https://images.credly.com/size/150x150/images/1037c009-45e9-47d9-8c8b-b1fd6c6a1d51/blob)](https://www.credly.com/badges/1037c009-45e9-47d9-8c8b-b1fd6c6a1d51)
+[![CompTIA Security+](./comptia.png)](https://www.credly.com/badges/3b84ed48-f5c2-4519-ad7a-57e6bd17f510)
+[![IBM GRC](./assets/IBM-01.png)](https://www.credly.com/badges/1037c009-45e9-47d9-8c8b-b1fd6c6a1d51)
 
 </div>
 
