@@ -14,7 +14,7 @@
 
 ### $ whoami
 
-Cybersecurity analyst with a software engineering background. I bring a developer's mindset to security — understanding systems from the inside out. Currently focused on threat detection, SOC analysis, and building the skills that matter in the field.
+Cybersecurity analyst with a software engineering background. I bring a developer's mindset to security; understanding systems from the inside out. Currently focused on threat detection, SOC analysis, and building the skills that matter in the field.
 
 - 🔐 CompTIA Security+ certified
 - 🎓 Honors graduate — Cyber Advance for Women in MENA by Correlation One (99%)
